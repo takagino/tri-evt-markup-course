@@ -19,16 +19,15 @@ a {
 }
 
 img {
+  display: block;
   max-width: 100%;
   height: auto;
-  vertical-align: bottom;
-  display: block;
   margin: auto;
+  vertical-align: bottom;
 }
 
 h2 {
   padding-bottom: 0.5em;
-  border-bottom: 1px dotted;
 }
 
 p,
