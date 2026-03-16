@@ -1,0 +1,40 @@
+body {
+  max-width: 700px;
+  width: 88%;
+  margin: 2em auto 3em;
+  text-align: center;
+  line-height: 1.8;
+  letter-spacing: 0.1em;
+  background-color: #333;
+  color: #fff;
+}
+
+a {
+  display: inline-block;
+  width: 100%;
+  padding: 1em 0;
+  border-radius: 10px;
+  background-color: #969696;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+  display: block;
+  margin: auto;
+}
+
+h2 {
+  padding-bottom: 0.5em;
+  border-bottom: 1px dotted;
+}
+
+p,
+ul {
+  margin: 2em 0 3em;
+  text-align: left;
+}
